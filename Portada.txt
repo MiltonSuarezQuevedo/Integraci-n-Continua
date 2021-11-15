@@ -1,10 +1,10 @@
 
-1 + Proyrecto de Intrgracion continua
+1 + Proyecto de Integración contínua
 2 + 
 3 + Integrantes :
 4 +
 5   Ever Rafael Rojas Polo
-6
+6   Milton Jair Suarez Quevedo
 7
 8
 9
